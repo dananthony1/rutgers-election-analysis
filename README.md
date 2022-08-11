@@ -1,2 +1,2 @@
 # rutgers-election-analysis
-Third Module for Rutgers Data Science Bootcamp - Python
+Module 3 for Rutgers Data Science Bootcamp - Python
